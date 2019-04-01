@@ -1,6 +1,8 @@
 This is my new file
 After this adding second line
 From web adding one more line
+In progress work on my laptop
 
 This is modified from web browser for testing
+Another commit from my local laptop
 
